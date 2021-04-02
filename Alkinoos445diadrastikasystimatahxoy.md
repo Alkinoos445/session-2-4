@@ -1,0 +1,15 @@
+a = 'Hello World!';
+Server.default.boot;
+b = "Hello World!";
+a;
+b;
+a.class;
+b.class;
+a.size;
+b.size;
+a.reverse;
+b.reverse;
+a[0];
+b[0];
+b[..3];
+b[..3].reverse;
